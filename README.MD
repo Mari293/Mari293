@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mari293&label=Profile%20views&color=0e75b6&style=flat" alt="mari293" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mari293&theme=dracula" alt="mari293" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mari293&theme=radical" alt="mari293" /></a> </p>
 
 - 🌱 I’m currently learning **new technologies and frameworks.**
 
